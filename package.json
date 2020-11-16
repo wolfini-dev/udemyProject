@@ -1,7 +1,6 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^0.16.1"
-  }
+    "json-server": "^0.16.1",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfini-dev/udemyProject.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/wolfini-dev/udemyProject/issues"
+  },
+  "homepage": "https://github.com/wolfini-dev/udemyProject#readme",
+  "description": ""
 }
